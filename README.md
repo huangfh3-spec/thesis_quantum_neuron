@@ -10,7 +10,7 @@ The simulations implement a trapped-ion based quantum neuron model and reproduce
 
 # Repository Structure
 
-
+```
 thesis_code/
 │
 ├── data/                 # Experimental and simulation data used in the figures
@@ -44,7 +44,7 @@ thesis_code/
 ├── paths.py              # Path configuration file used by scripts
 ├── environment.yml       # Conda environment for reproducibility
 └── README.md
-
+```
 
 ---
 
